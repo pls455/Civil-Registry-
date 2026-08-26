@@ -1,0 +1,2 @@
+# No external AI/API dependencies.
+# Python standard library only.
