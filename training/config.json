@@ -1,0 +1,12 @@
+{
+  "name": "MinhajAI-Local",
+  "language": "ar",
+  "architecture": "small-causal-transformer",
+  "vocab_size": 8192,
+  "context_length": 512,
+  "layers": 6,
+  "heads": 8,
+  "embedding_dim": 512,
+  "training_mode": "local",
+  "notes": "Config for a mobile-oriented curriculum language model. Train from locally collected/licensed curriculum data."
+}
